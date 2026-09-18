@@ -12,7 +12,7 @@
 <body>
     <strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
     <p>Name: Emma Vizoso Romero</p>
-    <p>Render Link: <a href="https://render-static-site-eade.onrender.com" target="_blank">https://render-static-site-eade.onrender.com</a></p>
+    <p>Render Link: <a href="https://render-static-site-eade.onrender.com/" target="_blank">https://render-static-site-eade.onrender.com/</a></p>
     <hr>
     <header>
         <h1>Discovering Equestrian Life</h1>
@@ -41,4 +41,5 @@
     </footer>
 </body>
 </html>
+
 
