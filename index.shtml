@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Equestrian World: All About Horses</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,600;1,400&display=swap" rel="stylesheet">
+</head>
+<body>
+    <strong>Last Modified: </strong><!--#echo var="LAST_MODIFIED" --><br>
+    <p>Name: Emma Vizoso Romero</p>
+    <p>Render Link: <a href="https://render-static-site-eade.onrender.com" target="_blank">https://render-static-site-eade.onrender.com</a></p>
+    <hr>
+    <header>
+        <h1>Discovering Equestrian Life</h1>
+        <p class="subtitle">Exploring the beauty, power, and elegance of horses</p>
+    </header>
+    <main>
+        <section class="intro">
+            <h2>Welcome to Equestrian World</h2>
+            <p>Horses have been companions, workers, and majestic athletes alongside humans for thousands of years.</p>
+        </section>
+        <section class="table-section">
+            <h2>Popular Horse Breeds Comparison</h2>
+            <table>
+                <thead>
+                    <tr><th>Breed Name</th><th>Origin</th><th>Primary Discipline</th><th>Average Height (Hands)</th></tr>
+                </thead>
+                <tbody>
+                    <tr><td>Thoroughbred</td><td>United Kingdom</td><td>Horse Racing, Eventing</td><td>15.2 - 17.0</td></tr>
+                    <tr><td>Quarter Horse</td><td>United States</td><td>Western Riding, Reining</td><td>14.0 - 16.0</td></tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>© 2026 Equestrian World | Created by Emma Vizoso Romero</p>
+    </footer>
+</body>
+</html>
+
