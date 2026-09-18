@@ -35,11 +35,16 @@
                 </tbody>
             </table>
         </section>
+        <section class="media-section">
+            <h2>Featured Video</h2>
+            <p>Watch this video to watch it!: <a href="https://www.youtube.com/watch?v=C8SHqoYr22k" target="_blank" rel="noopener noreferrer">YouTube video</a></p>
+        </section>
     </main>
     <footer>
         <p>© 2026 Equestrian World | Created by Emma Vizoso Romero</p>
     </footer>
 </body>
 </html>
+
 
 
